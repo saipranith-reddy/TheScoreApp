@@ -39,4 +39,4 @@ This project contains automated tests for theScore mobile application using the 
 - Replace placeholder element IDs in the test code with actual IDs from theScore app.
 - Update verification logic in the test code to match the behavior of theScore app.
 
-For any issues or questions, please contact [Your Name] <your.email@example.com>.
+For any issues or questions, please contact Sai Pranith <saig.qawork@gmail.com>.
